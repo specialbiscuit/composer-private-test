@@ -9,5 +9,6 @@
             "name": "Jason",
             "email": "jason.jiangyihan@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev-master"
 }
