@@ -1,0 +1,13 @@
+{
+    "name": "jason-composer-test/tt",
+    "description": "composer private repository test",
+    "require": {
+        "apache/thrift": "^0.12.0"
+    },
+    "authors": [
+        {
+            "name": "Jason",
+            "email": "jason.jiangyihan@gmail.com"
+        }
+    ]
+}
