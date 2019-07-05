@@ -10,5 +10,8 @@
             "email": "jason.jiangyihan@gmail.com"
         }
     ],
+    "config": {
+        "secure-http": false
+    },
     "minimum-stability": "dev-master"
 }
